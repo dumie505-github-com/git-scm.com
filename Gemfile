@@ -22,7 +22,7 @@ gem "redcarpet"
 gem "yajl-ruby"
 
 # Assets
-gem "compass-rails"
+gem "compass-rails", ">= 3.1.0"
 gem "sass-rails"
 gem "uglifier", "3.2.0"
 
