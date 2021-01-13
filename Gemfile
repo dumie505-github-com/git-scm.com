@@ -18,7 +18,7 @@ gem "diff-lcs"
 gem "launchy"
 gem "netrc"
 gem "nokogiri"
-gem "redcarpet"
+gem "redcarpet", ">= 3.5.1"
 gem "yajl-ruby"
 
 # Assets
